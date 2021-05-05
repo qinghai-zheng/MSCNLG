@@ -6,7 +6,7 @@ Source codes of "Multi-view Subspace Clustering Networks with Local and Global G
 
 If you find the codes useful in your research, please cite our works as follows, thanks.
 
-@article\{FCMSC,<br/>
+@article\{MSCNLG,<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;title=\{Multi-view Subspace Clustering Networks with Local and Global Graph Information\},<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;author=\{Zheng, Qinghai and Zhu, Jihua and Ma, Yuanyuan and Li, Zhongyu and Tian, Zhiqiang\},<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;journal=\{Neurocomputing\},<br/>
