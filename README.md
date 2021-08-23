@@ -4,7 +4,7 @@ We share the source codes by [Google Drive](https://drive.google.com/drive/folde
 
 Source codes of "Multi-view Subspace Clustering Networks with Local and Global Graph Information" accepted by Neurocomputing 2021 can be found in: "https://drive.google.com/drive/folders/1Of7042CyznYvR2oKNd6DCKtxMS7ISgWh?usp=sharing"
 
-If you find the codes useful in your research, please cite our works as follows, thanks.
+If you find the codes useful in your research, please cite our work as follows, thanks.
 
 @article\{MSCNLG,<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;title=\{Multi-view Subspace Clustering Networks with Local and Global Graph Information\},<br/>
